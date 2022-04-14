@@ -1,5 +1,4 @@
 # Text-Compression-algorithm
-youtube tutorial on how it works - https://www.youtube.com/watch?v=KrL_WIVx6js
 
 Huffman app is the main file to be run
 
